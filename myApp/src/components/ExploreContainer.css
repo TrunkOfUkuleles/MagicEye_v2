@@ -22,3 +22,13 @@
 .container a {
   text-decoration: none;
 }
+
+.card-result {
+  display: grid;
+  justify-content: center;
+  
+}
+
+.card-result * {
+  margin: 10px;
+}
