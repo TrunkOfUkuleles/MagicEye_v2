@@ -1,5 +1,5 @@
 import React from 'react';
-import { IonList, IonItem, IonLabel, IonInput, IonToggle, IonRadio, IonCheckbox, IonItemSliding, IonItemOption, IonItemOptions, IonContent, IonImg } from '@ionic/react';
+import { IonList, IonItem, IonLabel, IonContent, IonImg } from '@ionic/react';
 import './ExploreContainer.css';
 
 interface ContainerProps {
